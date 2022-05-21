@@ -1,9 +1,8 @@
+import TestComponent from "./components/TestComponent";
 
 function App() {
   return (
-    <div>
-      hello World
-    </div>
+    <TestComponent></TestComponent>
   );
 }
 
