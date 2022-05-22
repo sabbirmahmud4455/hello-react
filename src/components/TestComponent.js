@@ -31,7 +31,6 @@ class TestComponent extends React.Component{
 	}
 
 	render(){
-		console.log('test component');
 		const {date, locale} = this.state;
 
 		return(
