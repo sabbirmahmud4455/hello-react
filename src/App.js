@@ -1,15 +1,10 @@
-import TestComponent from "./components/TestComponent";
-import FormComponent from "./components/FormComponent";
-import Calculator from "./components/state/CalculatorComponent";
+import Todo from "./components/TestComponent";
+
 
 function App() {
   return (
     <>
-      <TestComponent/>
-      <FormComponent/>
-      <hr></hr>
-      <p></p>
-      <Calculator/>
+      <Todo></Todo>
     </>
    
   );
